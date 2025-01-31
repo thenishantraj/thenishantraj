@@ -70,21 +70,24 @@
 ---
 🚀 *“Code, Innovate, and Keep Learning!”*  
 
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/thenishantraj">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@the_nishant_raj">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-   <a href="https://www.instagram.com/the_nishant_raj/?utm_source=ig_web_button_share_sheet">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://x.com/NishantRaj2021">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+### Connect with Me:
+<div align="center">
+  <div id="badges" style="display: flex; gap: 15px; justify-content: center; padding: 20px;">
+    <a href="https://github.com/thenishantraj" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+    </a>
+    <a href="https://www.youtube.com/@the_nishant_raj" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://www.instagram.com/the_nishant_raj/?utm_source=ig_web_button_share_sheet" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://x.com/NishantRaj2021" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
 </div>
+
 
 # 🖥️ Technical Skills:
 
