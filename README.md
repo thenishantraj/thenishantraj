@@ -106,7 +106,29 @@
 </div>
 
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<div align="center">
+  <div style="
+      display: inline-block;
+      padding: 10px;
+      border-radius: 10px;
+      box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+      animation: borderColorChange 3s infinite alternate;
+    ">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
+         alt="About Me GIF" width="250px" />
+  </div>
+</div>
+
+<style>
+  @keyframes borderColorChange {
+    0% { border: 5px solid #ff0000; }
+    25% { border: 5px solid #00ff00; }
+    50% { border: 5px solid #0000ff; }
+    75% { border: 5px solid #ff00ff; }
+    100% { border: 5px solid #ff9900; }
+  }
+</style>
+
 
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=thenishantraj&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
