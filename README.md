@@ -94,3 +94,5 @@
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=thenishantraj&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
+<!--END_SECTION:waka-->
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/thenishantraj.thenishantraj.svg)
