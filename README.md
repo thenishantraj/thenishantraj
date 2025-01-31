@@ -85,9 +85,26 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thenishantraj&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)  
-![](https://github-readme-stats.vercel.app/api?username=thenishantraj&theme=radical&border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=thenishantraj&theme=radical&hide_border=false)  
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenishantraj&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" width="400px">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=thenishantraj&theme=radical&border=false&include_all_commits=true&count_private=true" width="400px">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thenishantraj&theme=radical&hide_border=false" width="820px">
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
