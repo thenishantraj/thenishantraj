@@ -15,10 +15,9 @@
 - ☁️ Diving deeper into **Cloud Computing & DevOps**  
 
 ### 📫 Connect with Me:
-📩 **Email**: [nishantraj6581@gmail.com](mailto:nishantraj6581@gmail.com)  
-🌍 **Portfolio**: *Coming Soon...*  
-📌 **LinkedIn**: [Nishant Raj](https://linkedin.com/in/your-profile)  
-🐦 **Twitter**: [@yourtwitterhandle](https://twitter.com/yourhandle)  
+📩 **Email**: [nishantraj6581@gmail.com](mailto:nishantraj6581@gmail.com)   
+📌 **LinkedIn**: [Nishant Raj](https://www.linkedin.com/in/the-nishant-raj-82972b208/)  
+🐦 **Twitter**: [@yourtwitterhandle](https://x.com/NishantRaj2021)  
 
 ---
 🚀 *“Code, Innovate, and Keep Learning!”*  
