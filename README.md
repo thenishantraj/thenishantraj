@@ -1,11 +1,28 @@
- <h1 align="center">Hi 👋, I'm Nishant Raj</h1>
+<h1 align="center">Hey 👋, I'm Nishant Raj</h1>
+<h3 align="center">🚀 AI/ML Enthusiast | Backend Developer in Progress | Tech Explorer</h3>
 
-- 🔭 I’m a pre final year Student
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about AI and ML
-- 📫 How to reach me: nishantraj6581@gmail.com
-- 😄 My website:
-  
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="AI & ML GIF">
+
+### 👨‍💻 About Me:
+- 🎓 **Final Year B.Tech Student** specializing in **Artificial Intelligence & Machine Learning**  
+- 🌟 Passionate about **Deep Learning, Computer Vision, and Cloud Technologies**  
+- 💡 Always exploring **Backend Development & Scalable Architectures**  
+- ⚡ Fun fact: I love **hackathons, coding challenges, and tech blogging!**  
+
+### 🌱 Currently Learning:
+- 🏗️ Building **high-performance backend systems**  
+- 🧠 Improving **AI/ML model efficiency**  
+- ☁️ Diving deeper into **Cloud Computing & DevOps**  
+
+### 📫 Connect with Me:
+📩 **Email**: [nishantraj6581@gmail.com](mailto:nishantraj6581@gmail.com)  
+🌍 **Portfolio**: *Coming Soon...*  
+📌 **LinkedIn**: [Nishant Raj](https://linkedin.com/in/your-profile)  
+🐦 **Twitter**: [@yourtwitterhandle](https://twitter.com/yourhandle)  
+
+---
+🚀 *“Code, Innovate, and Keep Learning!”*  
+
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/thenishantraj">
