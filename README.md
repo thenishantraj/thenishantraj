@@ -14,10 +14,58 @@
 - 🧠 Improving **AI/ML model efficiency**  
 - ☁️ Diving deeper into **Cloud Computing & DevOps**  
 
-### 📫 Connect with Me:
-📩 **Email**: [nishantraj6581@gmail.com](mailto:nishantraj6581@gmail.com)   
-📌 **LinkedIn**: [Nishant Raj](https://www.linkedin.com/in/the-nishant-raj-82972b208/)  
-🐦 **Twitter**: [@yourtwitterhandle](https://x.com/NishantRaj2021)  
+<div align="center">
+  <div style="
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      padding: 20px;
+      border-radius: 15px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      background-color: #f9f9f9;
+      flex-wrap: wrap;
+    ">
+    <a href="mailto:nishantraj6581@gmail.com" target="_blank" style="
+        text-decoration: none;
+        background-color: #0077b5;
+        color: white;
+        border-radius: 10px;
+        padding: 10px 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+      ">
+      📩 <strong>Email</strong>
+    </a>
+    <a href="https://www.linkedin.com/in/the-nishant-raj-82972b208/" target="_blank" style="
+        text-decoration: none;
+        background-color: #0077b5;
+        color: white;
+        border-radius: 10px;
+        padding: 10px 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+      ">
+      🔗 <strong>LinkedIn</strong>
+    </a>
+    <a href="https://x.com/NishantRaj2021" target="_blank" style="
+        text-decoration: none;
+        background-color: #1da1f2;
+        color: white;
+        border-radius: 10px;
+        padding: 10px 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+      ">
+      🐦 <strong>Twitter</strong>
+    </a>
+  </div>
+</div>
 
 ---
 🚀 *“Code, Innovate, and Keep Learning!”*  
