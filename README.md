@@ -119,15 +119,6 @@
   </div>
 </div>
 
-<style>
-  @keyframes borderColorChange {
-    0% { border: 5px solid #ff0000; }
-    25% { border: 5px solid #00ff00; }
-    50% { border: 5px solid #0000ff; }
-    75% { border: 5px solid #ff00ff; }
-    100% { border: 5px solid #ff9900; }
-  }
-</style>
 
 
 ## 🏆 GitHub Trophies  
