@@ -4,7 +4,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="AI & ML GIF">
 
 ### 👨‍💻 About Me:
-- 🎓 **Final Year B.Tech Student** specializing in **Artificial Intelligence & Machine Learning**  
+- 🎓 **Pre Final Year B.Tech Student** specializing in **Artificial Intelligence & Machine Learning**  
 - 🌟 Passionate about **Deep Learning, Computer Vision, and Cloud Technologies**  
 - 💡 Always exploring **Backend Development & Scalable Architectures**  
 - ⚡ Fun fact: I love **hackathons, coding challenges, and tech blogging!**  
