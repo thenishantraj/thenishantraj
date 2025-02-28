@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Nishant Raj</h1>
 <h3 align="center">🚀 AI/ML Enthusiast | Backend Developer in Progress | Tech Explorer</h3>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="AI & ML GIF">
 
 ### 👨‍💻 About Me:
 - 🎓 **Pre Final Year B.Tech Student** specializing in **Artificial Intelligence & Machine Learning**  
