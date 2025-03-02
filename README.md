@@ -71,7 +71,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70px" height="70px">
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="70px" height="70px">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="70px" height="70px">
-      <img src="https://www.vectorlogo.zone/logos/azure/azure-icon.svg" width="70px" height="70px">
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="70px" height="70px">
