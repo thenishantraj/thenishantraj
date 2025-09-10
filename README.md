@@ -3,7 +3,7 @@
 
 
 ### 👨‍💻 About Me:
-- 🎓 **Pre Final Year B.Tech Student** specializing in **Artificial Intelligence & Machine Learning**  
+- 🎓 **Final Year B.Tech Student** specializing in **Artificial Intelligence & Machine Learning**  
 - 🌟 Passionate about **Deep Learning, Computer Vision, and Cloud Technologies** 
 - 💡 Always exploring **Backend Development & AI Development**  
 - ⚡ Fun fact: I love **hackathons, coding challenges, and tech blogging!**  
