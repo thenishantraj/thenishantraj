@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Nishant Raj</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | Backend Developer in Progress | Tech Explorer</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | Backend Developer | Tech Explorer</h3>
 
 
 ### 👨‍💻 About Me:
