@@ -25,7 +25,7 @@
     <a href="https://www.instagram.com/the_nishant_raj/?utm_source=ig_web_button_share_sheet" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://x.com/NishantRaj2021" target="_blank" style="text-decoration: none;">
+    <a href="https://x.com/the_nishant_raj" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="mailto:nishantraj6581@gmail.com" target="_blank" style="text-decoration: none;">
