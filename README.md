@@ -2,23 +2,23 @@
 <h3 align="center">🚀 AI-ML Engineer | Full-Stack Backend Developer | 20+ Hackathons Finalist</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Naukri%20Campus-99.94%20Percentile-blue?style=for-the-badge&logo=target" alt="Naukri Rank">
-  <img src="https://img.shields.io/badge/LeetCode-Top%2015%25-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  <img src="https://img.shields.io/badge/AWS-Certified-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/LeetCode-Top%2015%25-orange?style=flat-square&logo=leetcode" alt="LeetCode">
+  <img src="https://img.shields.io/badge/Naukri%20Campus-Rank%20279-blue?style=flat-square" alt="Naukri Rank">
+  <img src="https://img.shields.io/badge/AWS-Certified-yellow?style=flat-square&logo=amazon-aws" alt="AWS">
 </p>
 
 ### 👨‍💻 About Me:
-- 🎓 **Final Year B.Tech (AI-ML)** at Techno Main Salt Lake [cite: 8, 15]
-- 💡 **Ex-SDE Intern @ Bluestock Fintech**: Optimized PostgreSQL latency by 30% and built scalable IPO processing APIs [cite: 22, 24, 28]
-- 🧠 **Specialist in Agentic AI**: Developed LifeOps AI (multi-agent OS) and FraudLens AI for forensic audit automation [cite: 31, 32, 41, 42]
-- 🏆 **Hackathon Veteran**: Finalist at **IIM Nagpur AI Hackathon**, **MOSIP Decode**, and **Shaastra 2026 (IIT Madras)** [cite: 48, 49, 50]
-- ⚡ **Fun Fact**: Achieved **99.94 percentile** in Naukri Campus Young Turks 2025 and competed in 20+ National Hackathons [cite: 51, 69, 71]
+- 🎓 **Final Year B.Tech (AI-ML)** at Techno Main Salt Lake
+- 💡 **Ex-SDE Intern @ Bluestock Fintech**, where I optimized PostgreSQL latency by 30% and built scalable IPO processing APIs
+- 🧠 Specialist in **Agentic AI & Anomaly Detection**—built LifeOps AI (a multi-agent life OS) and FraudLens AI for forensic audits
+- 🏆 **Hackathon Veteran**: Finalist at **IIM Nagpur AI Hackathon**, **MOSIP Decode**, and **Shaastra 2026 (IIT Madras)**
+- ⚡ Fun fact: I've competed in over **20 National Hackathons** and hold an All-India Rank of #279 in Naukri Campus Young Turks
 
 ### 🛠️ Technical Arsenal:
-- **Languages:** Python, Java, JavaScript, SQL [cite: 14]
-- **AI/ML:** CrewAI, TensorFlow, PyTorch, NLP, Scikit-learn, Isolation Forest [cite: 20]
-- **Backend:** Django, Django REST Framework, PostgreSQL, Streamlit, SQLite [cite: 18, 19, 31, 36]
-- **Cloud & DevOps:** AWS (EC2), NGINX, Gunicorn, Git/GitHub [cite: 28, 29]
+- **Languages:** Python, Java, JavaScript, SQL
+- **AI/ML:** CrewAI, TensorFlow, PyTorch, NLP, Scikit-learn, Isolation Forest
+- **Backend/Full-Stack:** Django, Django REST Framework, PostgreSQL, Streamlit, SQLite
+- **Cloud/DevOps:** AWS (EC2), NGINX, Gunicorn, Git/GitHub
 
 
 ### 🤝 Connect with Me:
@@ -34,6 +34,15 @@
   </a>
   <a href="https://nishant-raj-dev.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.youtube.com/@the_nishant_raj" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.instagram.com/the_nishant_raj/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://x.com/the_nishant_raj" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
