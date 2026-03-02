@@ -1,40 +1,50 @@
 <h1 align="center">Hey 👋, I'm Nishant Raj</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | Backend Developer | Tech Explorer</h3>
+<h3 align="center">🚀 AI-ML Engineer | Full-Stack Backend Developer | 20+ Hackathons Finalist</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Top%2015%25-orange?style=flat-square&logo=leetcode" alt="LeetCode">
+  <img src="https://img.shields.io/badge/Naukri%20Campus-Rank%20279-blue?style=flat-square" alt="Naukri Rank">
+  <img src="https://img.shields.io/badge/AWS-Certified-yellow?style=flat-square&logo=amazon-aws" alt="AWS">
+</p>
 
 ### 👨‍💻 About Me:
-- 🎓 **Final Year B.Tech Student** specializing in **Artificial Intelligence & Machine Learning**  
-- 🌟 Passionate about **Deep Learning, Computer Vision, and Cloud Technologies** 
-- 💡 Always exploring **Backend Development & AI Development**  
-- ⚡ Fun fact: I love **hackathons, coding challenges, and tech blogging!**  
+- [cite_start]🎓 **Final Year B.Tech (AI-ML)** at Techno Main Salt Lake [cite: 8, 15]
+- [cite_start]💡 **Ex-SDE Intern @ Bluestock Fintech**, where I optimized PostgreSQL latency by 30% and built scalable IPO processing APIs [cite: 22, 24, 28]
+- [cite_start]🧠 Specialist in **Agentic AI & Anomaly Detection**—built LifeOps AI (a multi-agent life OS) and FraudLens AI for forensic audits [cite: 31, 32, 41, 42]
+- [cite_start]🏆 **Hackathon Veteran**: Finalist at **IIM Nagpur AI Hackathon**, **MOSIP Decode**, and **Shaastra 2026 (IIT Madras)** [cite: 48, 49, 50]
+- [cite_start]⚡ Fun fact: I've competed in over **20 National Hackathons** and hold an All-India Rank of #279 in Naukri Campus Young Turks [cite: 47, 51]
 
-### 🌱 Currently Learning:
-- 🏗️ Building **high-performance backend systems**  
-- 🧠 Improving **AI/ML model efficiency**  
-- ☁️ Diving deeper into **Cloud Computing & DevOps**  
+### 🛠️ Technical Arsenal:
+- [cite_start]**Languages:** Python, Java, JavaScript, SQL [cite: 14]
+- [cite_start]**AI/ML:** CrewAI, TensorFlow, PyTorch, NLP, Scikit-learn, Isolation Forest [cite: 20]
+- [cite_start]**Backend/Full-Stack:** Django, Django REST Framework, PostgreSQL, Streamlit, SQLite [cite: 18, 19, 31, 36]
+- [cite_start]**Cloud/DevOps:** AWS (EC2), NGINX, Gunicorn, Git/GitHub [cite: 28, 29]
 
-### Connect with Me:
+### 🏗️ Featured Projects:
+- [cite_start]**LifeOps AI v2.0:** A Full-Stack Agentic OS using 5 specialized CrewAI agents for Health, Finance, and Study orchestration [cite: 31, 32, 33]
+- [cite_start]**Voyage AI:** A travel decision engine using a Weighted Geometric Mean algorithm with 97.4% match accuracy [cite: 37, 38, 40]
+- [cite_start]**FraudLens AI:** Anomaly detection pipeline reducing manual audit overhead by 40% [cite: 41, 43]
+
+### 🤝 Connect with Me:
 <div align="center">
-  <div id="badges" style="display: flex; gap: 15px; justify-content: center; padding: 20px;">
-    <a href="https://github.com/thenishantraj" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-    </a>
-    <a href="https://www.youtube.com/@the_nishant_raj" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://www.instagram.com/the_nishant_raj/?utm_source=ig_web_button_share_sheet" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-    <a href="https://x.com/the_nishant_raj" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="mailto:nishantraj6581@gmail.com" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/the-nishant-raj-82972b208/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
+  <a href="https://www.linkedin.com/in/the-nishant-raj-82972b208/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/thenishantraj" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:nishantraj6581@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://nishant-raj-dev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thenishantraj&show_icons=true&theme=radical" alt="Nishant's GitHub Stats" />
 </div>
 
 ---
