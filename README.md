@@ -2,80 +2,46 @@
 <h3 align="center">🚀 AI-ML Engineer | Full-Stack Backend Developer | 20+ Hackathons Finalist</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Naukri%20Campus-99.94%20Percentile-blue?style=for-the-badge&logo=target" alt="Naukri Percentile">
+  <img src="https://img.shields.io/badge/Naukri%20Campus-99.94%20Percentile-blue?style=for-the-badge&logo=target" alt="Naukri Rank">
   <img src="https://img.shields.io/badge/LeetCode-Top%2015%25-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   <img src="https://img.shields.io/badge/AWS-Certified-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </p>
 
 ### 👨‍💻 About Me:
 - 🎓 **Final Year B.Tech (AI-ML)** at Techno Main Salt Lake [cite: 8, 15]
-- 💡 **Ex-SDE Intern @ Bluestock Fintech**: Optimized PostgreSQL latency by 30% and built scalable APIs [cite: 22, 24, 28]
-- 🧠 **Specialist in Agentic AI**: Built LifeOps AI (multi-agent OS) and FraudLens AI for forensic audits [cite: 31, 32, 41, 42]
+- 💡 **Ex-SDE Intern @ Bluestock Fintech**: Optimized PostgreSQL latency by 30% and built scalable IPO processing APIs [cite: 22, 24, 28]
+- 🧠 **Specialist in Agentic AI**: Developed LifeOps AI (multi-agent OS) and FraudLens AI for forensic audit automation [cite: 31, 32, 41, 42]
 - 🏆 **Hackathon Veteran**: Finalist at **IIM Nagpur AI Hackathon**, **MOSIP Decode**, and **Shaastra 2026 (IIT Madras)** [cite: 48, 49, 50]
-- ⚡ **Achievement**: Secured **99.94 percentile** in Naukri Campus Young Turks 2025 
+- ⚡ **Fun Fact**: Achieved **99.94 percentile** in Naukri Campus Young Turks 2025 and competed in 20+ National Hackathons [cite: 51, 69, 71]
 
 ### 🛠️ Technical Arsenal:
-<table align="center" style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <th style="text-align: center; padding: 10px; font-size: 18px;">Frontend</th>
-    <th style="text-align: center; padding: 10px; font-size: 18px;">Backend & Databases</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50px" title="HTML5">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50px" title="CSS3">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" title="JavaScript">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50px" title="Bootstrap">
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" title="Python">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50px" title="Java">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50px" title="Django">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50px" title="PostgreSQL">
-    </td>
-  </tr>
-  <tr>
-    <th style="text-align: center; padding: 10px; font-size: 18px;">Machine Learning & AI</th>
-    <th style="text-align: center; padding: 10px; font-size: 18px;">Cloud & DevOps</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50px" title="TensorFlow">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50px" title="PyTorch">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50px" title="Scikit-learn">
-      <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50px" title="Streamlit">
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px" title="AWS">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50px" title="NGINX">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50px" title="Git">
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50px" title="GitHub">
-    </td>
-  </tr>
-</table>
+- **Languages:** Python, Java, JavaScript, SQL [cite: 14]
+- **AI/ML:** CrewAI, TensorFlow, PyTorch, NLP, Scikit-learn, Isolation Forest [cite: 20]
+- **Backend:** Django, Django REST Framework, PostgreSQL, Streamlit, SQLite [cite: 18, 19, 31, 36]
+- **Cloud & DevOps:** AWS (EC2), NGINX, Gunicorn, Git/GitHub [cite: 28, 29]
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thenishantraj&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thenishantraj&theme=radical" alt="GitHub Streak" />
-</div>
-
-### 🏆 Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thenishantraj&theme=radical&no-frame=false&no-bg=true" />
-</p>
 
 ### 🤝 Connect with Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/the-nishant-raj-82972b208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nishantraj6581@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://nishant-raj-dev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/the-nishant-raj-82972b208/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/thenishantraj" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:nishantraj6581@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://nishant-raj-dev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://visitor-badge-deno.deno.dev/thenishantraj.thenishantraj.svg" alt="Views" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thenishantraj&show_icons=true&theme=radical" alt="Nishant's GitHub Stats" />
+</div>
 
 ---
 🚀 *“Code, Innovate, and Keep Learning!”*  
