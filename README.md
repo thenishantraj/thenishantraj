@@ -49,53 +49,39 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70px" height="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70px" height="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70px" height="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="70px" height="70px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70px" height="70px" title="HTML5">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70px" height="70px" title="CSS3">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70px" height="70px" title="JavaScript">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="70px" height="70px" title="Bootstrap">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="70px" height="70px" title="Figma">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70px" height="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70px" height="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70px" height="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="70px" height="70px">
-    </td>
-  </tr>
-  
-  <tr>
-    <th style="text-align: center; padding: 10px; font-size: 20px;">Cloud & DevOps</th>
-    <th style="text-align: center; padding: 10px; font-size: 20px;">Tools & Platforms</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70px" height="70px">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="70px" height="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="70px" height="70px">
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="70px" height="70px">
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="70px" height="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="70px" height="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="70px" height="70px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70px" height="70px" title="Python">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70px" height="70px" title="Java">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="70px" height="70px" title="Django / DRF">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="70px" height="70px" title="PostgreSQL">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="70px" height="70px" title="SQLite">
     </td>
   </tr>
   
   <tr>
     <th style="text-align: center; padding: 10px; font-size: 20px;">Machine Learning & AI</th>
-    <th style="text-align: center; padding: 10px; font-size: 20px;">Other Tools</th>
+    <th style="text-align: center; padding: 10px; font-size: 20px;">Cloud & DevOps</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="70px" height="70px">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="70px" height="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70px" height="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70px" height="70px">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="70px" height="70px" title="TensorFlow">
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="70px" height="70px" title="PyTorch">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70px" height="70px" title="Scikit-learn">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="70px" height="70px" title="NLP & Data Science">
+      <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="70px" height="70px" title="Streamlit">
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="70px" height="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="70px" height="70px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="70px" height="70px">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="70px" height="70px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70px" height="70px" title="AWS (EC2/Cloud)">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="70px" height="70px" title="NGINX">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="70px" height="70px" title="Git">
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="70px" height="70px" title="GitHub">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="70px" height="70px" title="Linux">
     </td>
   </tr>
 </table>
