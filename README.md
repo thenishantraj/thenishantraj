@@ -11,8 +11,6 @@
 - 🎓 **Final Year B.Tech (AI-ML)** at Techno Main Salt Lake
 - 💡 **Ex-SDE Intern @ Bluestock Fintech**, where I optimized PostgreSQL latency by 30% and built scalable IPO processing APIs
 - 🧠 Specialist in **Agentic AI & Anomaly Detection**—built LifeOps AI (a multi-agent life OS) and FraudLens AI for forensic audits
-- 🏆 **Hackathon Veteran**: Finalist at **IIM Nagpur AI Hackathon**, **MOSIP Decode**, and **Shaastra 2026 (IIT Madras)**
-- ⚡ Fun fact: I've competed in over **20 National Hackathons** and hold an All-India Rank of #279 in Naukri Campus Young Turks
 
 ### 🛠️ Technical Arsenal:
 - **Languages:** Python, Java, JavaScript, SQL
