@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Nishant Raj 🚀✨</h1>
+<h1 align="center">Hey, I'm Nishant Raj 👋</h1>
 <h3 align="center"> AI-ML Engineer | Full-Stack Backend Developer </h3>
 
 <p align="center">
@@ -7,28 +7,28 @@
 
 ---
 
-## 👨🏻‍💻 About Me
+##  About Me
 
-🎯 Final Year B.Tech student specializing in AI-ML
-🏢 Ex-SDE Intern @ Bluestock Fintech, optimized PostgreSQL by 30%
-🧠 Specialist in Agentic AI & Anomaly Detection (LifeOps AI, FraudLens AI)
-🏆 LeetCode Top 15% (1550+ Rating) & Naukri Campus AIR 279
-💡 AWS Certified with 20+ Hackathon finals experience
-🌐 Skilled in building scalable APIs and multi-agent systems
+ Final Year B.Tech student specializing in AI-ML
+ Ex-SDE Intern @ Bluestock Fintech, optimized PostgreSQL by 30%
+ Specialist in Agentic AI & Anomaly Detection (LifeOps AI, FraudLens AI)
+ LeetCode Top 15% (1550+ Rating) & Naukri Campus AIR 279
+ AWS Certified with 20+ Hackathon finals experience
+ Skilled in building scalable APIs and multi-agent systems
 
 ---
 
 ## 💼 Real Work I’ve Done
 
-- ✅ Built **LifeOps AI**—a multi-agent life OS
-- ✅ Developed **FraudLens AI** for forensic audits
-- ✅ Optimized **PostgreSQL latency** and built IPO processing APIs
-- ✅ Created **SkyDraw**—real-time air canvas using OpenCV
-- ✅ Designed **FarmFusion-AI** for crop yield predictions
-- ✅ Deployed scalable apps using **AWS EC2, NGINX, and Gunicorn**
+-  Built **LifeOps AI**—a multi-agent life OS
+-  Developed **FraudLens AI** for forensic audits
+-  Optimized **PostgreSQL latency** and built IPO processing APIs
+-  Created **SkyDraw**—real-time air canvas using OpenCV
+-  Designed **FarmFusion-AI** for crop yield predictions
+-  Deployed scalable apps using **AWS EC2, NGINX, and Gunicorn**
   
 
-### 🤝 Connect with Me:
+###  Connect with Me:
 <div align="center">
   <a href="https://www.linkedin.com/in/the-nishant-raj-82972b208/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -51,9 +51,9 @@
 </div>
 
 ---
-🚀 *“Code, Innovate, and Keep Learning!”*  
+ *“Code, Innovate, and Keep Learning!”*  
 
-# 🖥️ Technical Skills:
+#  Technical Skills:
 
 <table align="center" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
@@ -100,7 +100,7 @@
 </table>
 
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 <div align="center">
 
   <table>
@@ -137,7 +137,7 @@
 
 
 
-## 🏆 GitHub Trophies  
+##  GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=thenishantraj&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
 <!--END_SECTION:waka-->
