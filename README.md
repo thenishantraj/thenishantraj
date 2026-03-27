@@ -2,7 +2,7 @@
 <h3 align="center"> AI-ML Engineer | Full-Stack Backend Developer | 20+ Hackathons Finalist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI-ML+Specialist+with+full-stack+roots.;Agentic+AI+and+Anomaly+Detection+expert.;Optimizing+backend+latency+is+my+superpower.;SDE+at+heart%2C+DevOps+by+choice." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=535&lines=AI-ML+Specialist+with+full-stack+roots.;Agentic+AI+and+Anomaly+Detection+expert.;Optimizing+backend+latency+is+my+superpower.;SDE+at+heart%2C+DevOps+by+choice." alt="Typing SVG" />
 </p>
 
 ---
