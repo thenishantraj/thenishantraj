@@ -1,23 +1,43 @@
-<h1 align="center">Hey 👋, I'm Nishant Raj</h1>
-<h3 align="center">🚀 AI-ML Engineer | Full-Stack Backend Developer | 20+ Hackathons Finalist</h3>
+<h1 align="center">Hey, I'm Nishant Raj 🚀✨</h1>
+<h3 align="center">AI-ML Engineer | Full-Stack Backend Developer | 20+ Hackathons Finalist</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Top%2015%25-orange?style=flat-square&logo=leetcode" alt="LeetCode">
-  <img src="https://img.shields.io/badge/Naukri%20Campus-Rank%20279-blue?style=flat-square" alt="Naukri Rank">
-  <img src="https://img.shields.io/badge/AWS-Certified-yellow?style=flat-square&logo=amazon-aws" alt="AWS">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI-ML+Specialist+with+full-stack+roots.;Agentic+AI+and+Anomaly+Detection+expert.;Optimizing+backend+latency+is+my+superpower.;SDE+at+heart%2C+DevOps+by+choice." alt="Typing SVG" />
 </p>
 
-### 👨‍💻 About Me:
-- 🎓 **Final Year B.Tech (AI-ML)** at Techno Main Salt Lake
-- 💡 **Ex-SDE Intern @ Bluestock Fintech**, where I optimized PostgreSQL latency by 30% and built scalable IPO processing APIs
-- 🧠 Specialist in **Agentic AI & Anomaly Detection**—built LifeOps AI (a multi-agent life OS) and FraudLens AI for forensic audits
+---
 
-### 🛠️ Technical Arsenal:
-- **Languages:** Python, Java, JavaScript, SQL
-- **AI/ML:** CrewAI, TensorFlow, PyTorch, NLP, Scikit-learn, Isolation Forest
-- **Backend/Full-Stack:** Django, Django REST Framework, PostgreSQL, Streamlit, SQLite
-- **Cloud/DevOps:** AWS (EC2), NGINX, Gunicorn, Git/GitHub
+## 👨🏻‍💻 About Me
 
+🎯 Final Year B.Tech student specializing in AI-ML
+🏢 Ex-SDE Intern @ Bluestock Fintech, optimized PostgreSQL by 30%
+🧠 Specialist in Agentic AI & Anomaly Detection (LifeOps AI, FraudLens AI)
+🏆 LeetCode Top 15% (1550+ Rating) & Naukri Campus AIR 279
+💡 AWS Certified with 20+ Hackathon finals experience
+🌐 Skilled in building scalable APIs and multi-agent systems
+
+---
+
+## 💼 Real Work I’ve Done
+
+- ✅ Built **LifeOps AI**—a multi-agent life OS
+- ✅ Developed **FraudLens AI** for forensic audits
+- ✅ Optimized **PostgreSQL latency** and built IPO processing APIs
+- ✅ Created **SkyDraw**—real-time air canvas using OpenCV
+- ✅ Designed **FarmFusion-AI** for crop yield predictions
+- ✅ Deployed scalable apps using **AWS EC2, NGINX, and Gunicorn**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python, Java, JavaScript, SQL  
+**AI/ML:** CrewAI, TensorFlow, PyTorch, Scikit-learn, NLP  
+**Backend:** Django, DRF, PostgreSQL, SQLite, Streamlit  
+**DevOps:** AWS (EC2), NGINX, Gunicorn, Git, Linux  
+**Tools:** Postman, Figma, GitHub Actions  
+
+---
 
 ### 🤝 Connect with Me:
 <div align="center">
