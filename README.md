@@ -46,12 +46,9 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thenishantraj&show_icons=true&theme=radical" alt="Nishant's GitHub Stats" />
-</div>
 
 ---
- *“Code, Innovate, and Keep Learning!”*  
+ *Code, Innovate, and Keep Learning!*  
 
 #  Technical Skills:
 
