@@ -52,52 +52,71 @@
 
 #  Technical Arsenal
 
+<br>
+
 <div align="center">
-
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="html5" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="css3" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="javascript" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="bootstrap" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45" alt="figma" />
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Backend_&_DB-00599C?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="python" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="java" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45" alt="django" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="postgresql" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="sqlite" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/AI_&_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <br><br>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="tensorflow" />
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45" alt="pytorch" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="scikit-learn" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas" />
-      <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="45" height="45" alt="streamlit" />
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Cloud_&_DevOps-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="aws" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" height="45" alt="nginx" />
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="git" />
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" height="45" alt="github" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="linux" />
-    </td>
-  </tr>
-</table>
-
+  <table style="border: none; border-collapse: collapse; width: 100%; max-width: 900px;">
+    <tr>
+      <td align="center" style="border: 2px solid #E0E0E0; border-radius: 12px; padding: 30px; background: rgba(255,255,255,0.8); box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 48%;">
+        <p align="center">
+          <img src="https://img.shields.io/badge/Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" alt="Frontend Badge" />
+        </p>
+        <br>
+        <p align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="html5" title="HTML5" style="margin: 0 10px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="css3" title="CSS3" style="margin: 0 10px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="javascript" title="JavaScript" style="margin: 0 10px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="bootstrap" title="Bootstrap" style="margin: 0 10px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" alt="figma" title="Figma" style="margin: 0 10px;" />
+        </p>
+      </td>
+      <td style="width: 4%;"></td> <td align="center" style="border: 2px solid #E0E0E0; border-radius: 12px; padding: 30px; background: rgba(255,255,255,0.8); box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 48%;">
+        <p align="center">
+          <img src="https://img.shields.io/badge/Backend_&_DB-00599C?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="Backend & DB Badge" />
+        </p>
+        <br>
+        <p align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="python" title="Python" style="margin: 0 10px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="java" title="Java" style="margin: 0 10px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60" alt="django" title="Django / DRF" style="margin: 0 10px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="postgresql" title="PostgreSQL" style="margin: 0 10px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" alt="sqlite" title="SQLite" style="margin: 0 10px;" />
+        </p>
+      </td>
+    </tr>
+    <tr><td colspan="3" style="height: 25px;"></td></tr> <tr>
+      <td align="center" style="border: 2px solid #E0E0E0; border-radius: 12px; padding: 30px; background: rgba(255,255,255,0.8); box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 48%;">
+        <p align="center">
+          <img src="https://img.shields.io/badge/AI_&_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" alt="AI & ML Badge" />
+        </p>
+        <br>
+        <p align="center">
+          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60" height="60" alt="tensorflow" title="TensorFlow" style="margin: 0 10px;" />
+          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="60" height="60" alt="pytorch" title="PyTorch" style="margin: 0 10px;" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60" alt="scikit-learn" title="Scikit-learn" style="margin: 0 10px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="pandas" title="NLP & Data Science" style="margin: 0 10px;" />
+          <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="60" height="60" alt="streamlit" title="Streamlit" style="margin: 0 10px;" />
+        </p>
+      </td>
+      <td style="width: 4%;"></td> <td align="center" style="border: 2px solid #E0E0E0; border-radius: 12px; padding: 30px; background: rgba(255,255,255,0.8); box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 48%;">
+        <p align="center">
+          <img src="https://img.shields.io/badge/Cloud_&_DevOps-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="Cloud & DevOps Badge" />
+        </p>
+        <br>
+        <p align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" alt="aws" title="AWS (EC2/Cloud)" style="margin: 0 10px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" height="60" alt="nginx" title="NGINX" style="margin: 0 10px;" />
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60" alt="git" title="Git" style="margin: 0 10px;" />
+          <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" height="60" alt="github" title="GitHub" style="margin: 0 10px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="linux" title="Linux" style="margin: 0 10px;" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br>
+
 
 
 <!--END_SECTION:waka-->
