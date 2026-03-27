@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Nishant Raj 🚀✨</h1>
-<h3 align="center"> AI-ML Engineer | Full-Stack Backend Developer | 20+ Hackathons Finalist</h3>
+<h3 align="center"> AI-ML Engineer | Full-Stack Backend Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=535&lines=AI-ML+Specialist+with+full-stack+roots.;Agentic+AI+and+Anomaly+Detection+expert.;Optimizing+backend+latency+is+my+superpower.;SDE+at+heart%2C+DevOps+by+choice." alt="Typing SVG" />
@@ -26,18 +26,7 @@
 - ✅ Created **SkyDraw**—real-time air canvas using OpenCV
 - ✅ Designed **FarmFusion-AI** for crop yield predictions
 - ✅ Deployed scalable apps using **AWS EC2, NGINX, and Gunicorn**
-
----
-
-## 🧰 Tech Stack
-
-**Languages:** Python, Java, JavaScript, SQL  
-**AI/ML:** CrewAI, TensorFlow, PyTorch, Scikit-learn, NLP  
-**Backend:** Django, DRF, PostgreSQL, SQLite, Streamlit  
-**DevOps:** AWS (EC2), NGINX, Gunicorn, Git, Linux  
-**Tools:** Postman, Figma, GitHub Actions  
-
----
+  
 
 ### 🤝 Connect with Me:
 <div align="center">
@@ -52,15 +41,6 @@
   </a>
   <a href="https://nishant-raj-dev.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.youtube.com/@the_nishant_raj" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.instagram.com/the_nishant_raj/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://x.com/the_nishant_raj" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
