@@ -18,7 +18,7 @@
 
 ---
 
-## 💼 Real Work I’ve Done
+##  Real Work I’ve Done
 
 -  Built **LifeOps AI**—a multi-agent life OS
 -  Developed **FraudLens AI** for forensic audits
