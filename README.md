@@ -12,7 +12,7 @@
  Final Year B.Tech student specializing in AI-ML
  Ex-SDE Intern @ Bluestock Fintech, optimized PostgreSQL by 30%
  Specialist in Agentic AI & Anomaly Detection (LifeOps AI, FraudLens AI)
- LeetCode Top 15% (1550+ Rating) & Naukri Campus AIR 279
+ LeetCode Top 15% (1550+ Rating) & Naukri Campus AIR 279 (Top 1%)
  AWS Certified with 20+ Hackathon finals experience
  Skilled in building scalable APIs and multi-agent systems
 
