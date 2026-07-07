@@ -39,7 +39,7 @@
   <a href="mailto:nishantraj6581@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://nishant-raj-dev.netlify.app/" target="_blank">
+  <a href="[https://nishant-raj-dev.netlify.app/](https://the-nishant-raj.netlify.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </div>
